@@ -1,1 +1,4 @@
-TESTING MAKING A CHANGE BY PERSON C
+TESTING MAKING A CHANGE BY 
+PERSON C
+
+making new changes not seen by A
